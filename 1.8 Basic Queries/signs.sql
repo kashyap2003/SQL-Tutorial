@@ -1,0 +1,7 @@
+-- <    Less Than
+-- >    Grater Than
+-- <>   NOt equal to
+-- <=   Less Than or Equal to
+-- >=   Greater Than Or Equal To
+-- AND
+-- OR

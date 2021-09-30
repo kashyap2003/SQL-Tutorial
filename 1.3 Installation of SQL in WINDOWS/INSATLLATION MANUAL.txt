@@ -1,0 +1,2 @@
+1. Install mysql-installer-web-community-8.0.25.0
+2. Install PopSQL-Setup-1.0.48
